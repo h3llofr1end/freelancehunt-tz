@@ -1,0 +1,15 @@
+{
+    "require": {
+        "symfony/dotenv": "^5.0",
+        "illuminate/database": "^7.1",
+        "twig/twig": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
